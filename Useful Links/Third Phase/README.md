@@ -7,7 +7,7 @@
 
 <ul dir="rtl">
     <li> درس نامه <a href="https://sebastianraschka.com/blog/2021/dl-course.html">Introduction to Deep Learning, Sebastian Raschka</a>
-        <ul>
+        <ul dir="rtl">
             <li> <div dir="ltr"> <a href="https://sebastianraschka.com/blog/2021/dl-course.html#part-1-introduction">Part 1: Introduction</a> </div> </li>
             <li> <div dir="ltr"> <a href="https://sebastianraschka.com/blog/2021/dl-course.html#part-2-mathematical-and-computational-foundations">Part 2: Mathematical and Computational Foundations</a> </div> </li>
             <li> <div dir="ltr"> <a href="https://sebastianraschka.com/blog/2021/dl-course.html#part-3-introduction-to-neural-networks">Part 3: Introduction to Neural Networks</a> </div> </li>
@@ -15,7 +15,7 @@
     </li>
     <li> کتاب آنلاین <a href="https://d2l.ai/index.html">Dive into Deep Learning</a> </li>
     <li> مجموعه نوت بوک‌های <a href="https://github.com/dair-ai/pytorch_notebooks">dair-ai</a> برای PyTorch
-        <ul>
+        <ul dir="rtl">
             <li> <div dir="ltr"> <a href="https://colab.research.google.com/drive/1AWXvwvyoOczCugTTULLbIPYIh2_GS2Aq">Implementing a Logistic Regression Model from Scratch</a> </div> </li>
             <li> <div dir="ltr"> <a href="https://colab.research.google.com/drive/1ac0K9_aa46c77XEeYtaMAfSOfmH1Bl9L">PyTorch Hello World</a> </div> </li>
             <li> <div dir="ltr"> <a href="https://colab.research.google.com/github/omarsar/pytorch_notebooks/blob/master/A_Gentle_Introduction_to_PyTorch_1_2.ipynb">A Gentle Introduction to PyTorch 1.2</a> </div> </li>
@@ -28,7 +28,7 @@
 
 <ul dir="rtl">
     <li> صفحه گیتهاب مجموعه آموزشی <a href="https://github.com/mrdbourke/zero-to-mastery-ml/tree/master/section-2-data-science-and-ml-tools">Zero to Mastery</a>
-        <ul>
+        <ul dir="rtl">
            <li> <div dir="ltr"> <a href="https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-matplotlib.ipynb">Introduction to matplotlib</a> </div> </li>
            <li> <div dir="ltr"> <a href="https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-numpy.ipynb">Introduction to Numpy</a> </div> </li>
            <li> <div dir="ltr"> <a href="https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb">Introduction to Pandas</a> </div> </li>
@@ -43,7 +43,7 @@
 
 <ul dir="rtl">
     <li> مجموعه نوت بوک‌های آموزشی <a href="https://machine-learning-with-python.readthedocs.io/en/latest/">Python Machine Learning Notebooks</a>
-        <ul>
+        <ul dir="rtl">
             <li> <div dir="ltr"> <a href="https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_operations.ipynb">Detailed NumPy operations</a> </div> </li>
             <li> <div dir="ltr"> <a href="https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Pandas_Operations.ipynb">Detailed Pandas operations</a> </div> </li>
             <li> <div dir="ltr"> <a href="https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_Pandas_Quick.ipynb">NumPy and Pandas quick basics operations</a> </div> </li>
