@@ -51,7 +51,7 @@
             <li> ماژول ۴، درخت تصمیم‌گیری: ویدیو ۱ تا ۱۴ </li>
         </ul>
     </li>
-    <li> <div dir="ltr"> [<a href="https://downloadly.ir/elearning/video-tutorials/neural-networks-and-deep-learning/">📥</a>][<a href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning">👁</a>] Deep Learning Specialization, Advanced Learning Algorithms; Andrew Ng. </div>
+    <li> <div dir="ltr"> [<a href="https://downloadly.ir/elearning/video-tutorials/neural-networks-and-deep-learning/">📥</a>][<a href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning">👁</a>] Deep Learning Specialization, Neural Networks and Deep Learning; Andrew Ng. </div>
         <ul dir="rtl">
             <li> ماژول ۱، مقدمه‌ای بر یادگیری عمیق: همه ویدیوها به غیر از ویدیو ۶ </li>
             <li> ماژول ۲، پایه‌های شبکه‌های عصبی: همه ویدیوها </li>
