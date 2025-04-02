@@ -3,6 +3,7 @@
 
 # لینک‌های مفید برای آزمون عملی
 
+<br><br>
 ### لینک‌های مفید برای یادگیری PyTorch
 
 <ul dir="rtl">
@@ -24,6 +25,7 @@
     </li>
 </ul>
 
+<br><br>
 ### لینک‌های مفید برای یادگیری scikit-learn
 
 <ul dir="rtl">
@@ -39,6 +41,7 @@
     <li> <div dir="ltr"> <a href="https://github.com/glouppe/tutorials-scikit-learn/blob/master/1.%20An%20introduction%20to%20Machine%20Learning%20with%20Scikit-Learn.ipynb">An introduction to Machine Learning with scikit-Learn</a> </div> </li>    
 </ul>
 
+<br><br>
 ### لینک‌های مفید برای یادگیری NumPy, Pandas, Mathplotlib
 
 <ul dir="rtl">
